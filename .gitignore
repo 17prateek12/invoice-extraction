@@ -1,0 +1,19 @@
+*.pyc
+__pycache__/
+
+
+.ipynb_checkpoints/
+.invoice
+# Jupyter Notebook kernel logs
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.pyd
+
+# Cache and temporary files
+.cache/
+.tmp/
+temp/
